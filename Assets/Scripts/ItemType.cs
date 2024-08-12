@@ -1,0 +1,10 @@
+public enum ItemType
+{
+    NONE = -1,
+    MISSILE,
+    SPEED_BOOST,
+    FREEZE_RAY,
+    INVINCIBILITY,
+    MIRROR_SHIELD,
+    NUMBER_OF_ITEM_TYPES
+}
